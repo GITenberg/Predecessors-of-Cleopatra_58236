@@ -1,16 +1,21 @@
 _repo: Predecessors-of-Cleopatra_58236
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Davis, G. A.
     gutenberg_agent_id: '49846'
     url: http://www.gutenberg.org/2009/agents/49846
+covers:
+- cover_type: archival
+  image_path: 58236-h/images/cover.jpg
 creator:
   author:
     agent_name: North, Leigh
     gutenberg_agent_id: '49845'
     url: http://www.gutenberg.org/2009/agents/49845
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58236#Predecessors-of-Cleopatra
 gutenberg_issued: '2018-11-05'
 gutenberg_type: Text
 identifiers:
